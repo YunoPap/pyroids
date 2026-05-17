@@ -1,0 +1,24 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+
+# Python environment settings
+.python-version
+
+# Editor and OS files
+*.swp
+*.swo
+*.DS_Store
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# UV project lock file is usually committed, so keep uv.lock
+
+game_state.jsonl
